@@ -12,9 +12,11 @@
   de la mano con PostgreSQL</p>
   <h1>Para la ejecucion de la aplicación</h1>
   <div>
-    1. tener JDK 23
-    2. tener postgreSQL
-    3. Extencion o Aplicación para el consumo de APIs (Pronto consumo de lado del navegador)
-    4. Ejecutar el metodo main de la aplicacion (al mismo tiempo se genera la base de datos)
+    <ul>
+      <li>tener JDK 23</li>
+      <li>tener postgreSQL</li>
+      <li>Extencion o Aplicación para el consumo de APIs (Pronto consumo de lado del navegador)</li>
+      <li>Ejecutar el metodo main de la aplicacion (al mismo tiempo se genera la base de datos)</li>
+    </ul>
   </div>
 </div>
