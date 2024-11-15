@@ -5,6 +5,6 @@
   tambien denderize vistas para consumo del usuario desde un navegador</p>
   <h1>Objetivo de esta aplicacion</h1>
   <p>El objetivo de esta aplicacion es consumir recursos sobre una tienda, la cual tiene como objetivo especifico
-  manejo de inventario de productos categorizados y ademas de un consumo de clientes las cuales puede adquirir una compra 
-  de algun producto</p>
+  manejo de inventario de productos categorizados, control de proveedores que venden estos productos y ademas de un consumo de clientes 
+  las cuales puede adquirir una compra de algun producto</p>
 </div>
